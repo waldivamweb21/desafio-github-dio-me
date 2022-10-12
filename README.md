@@ -52,7 +52,7 @@
 - [ ] Jul
 - [ ] Ago
 - [ ] Set
-- [ ] Out
+- [x] Out
 - [ ] Nov
 - [ ] Dez
 
