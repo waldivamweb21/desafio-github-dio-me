@@ -1,6 +1,6 @@
-### Planejamento de Estudo com Cronograma Completo do Bootcamp Potência Tech powered by iFood Java Beginners dio me
+### Planejamento de Estudo Bootcamp Potência Tech powered by iFood Java Beginners dio me
 
-![javas]()
+![javas](https://wallpapercave.com/wp/wp6600038.jpg)
 
 > " Feliz aquele que aprende o que ensina e transfere o que sabe!" Cora coralina
 
@@ -9,11 +9,9 @@
 
 **Nível Iniciante**
 
-- [] Bootcamps 
-
+- [ ] Bootcamps 
 
 - Bootcamp Potência Tech powered by iFood Java Beginners -[acesse o Bootcamp](https://web.dio.me/track/potencia-tech-powered-ifood-java-beginners)
-
 
 - [ ] Cursos
 
@@ -43,41 +41,30 @@
 - [ ] Fortalecendo a Carreira Profissional
 
 
-** Disciplinas Semanal 
-
-Exemplos de Prenchimentos se fizer outros Bootcamp e cursos... ;)
-
-	Segunda-Feira | Terça-Feira | Quarta-Feira | Quinta-Feira | Sexta-Feira | Sabado   |   Domingo |
-
---------------------------------------------------------------------------------------------------------
-
-Manhã    Java		Sql		Python		Html		Css	JavaScript
---------------------------------------------------------------------------------------------------------
-
-Tarde	 Java		Sql		Python		Html		Css	JavaScript
---------------------------------------------------------------------------------------------------------
-
-Noite    Java		Sql		Python		Html		Css	JavaScript
---------------------------------------------------------------------------------------------------------
-
-Revisão  Java		Sql		Python		Html		Css	JavaScript
---------------------------------------------------------------------------------------------------------
-
 ** Meses do Ano e Metas Concluidas
 
-- [ ] Jan - [ ] Fev - [ ] Mar - [ ] Abr	- [ ] Mai - [ ] Jun - [ ] Jul - [ ] Ago	- [ ] Set - [x] Out - [ ] Nov - [ ] Dez
+- [ ] Jan 
+- [ ] Fev
+- [ ] Mar
+- [ ] Abr
+- [ ] Mai
+- [ ] Jun 
+- [ ] Jul
+- [ ] Ago
+- [ ] Set
+- [ ] Out
+- [ ] Nov
+- [ ] Dez
 
 
 **Metas do mês de Outubro:**
+
 
 - [x] Prepare-se Para a Jornada(Onboarding) | Data_Conclusão(08/10/2022)
 
 - [ ] Princípios Do Desenvolvimento
 
 - [ ] Conhecendo A Linguagem De Programação Java
-
-
-Exemplos de preenchimentos de metas mensais. ;)
 
 
 **Metas do mês de Novembro:**
@@ -95,8 +82,6 @@ Exemplos de preenchimentos de metas mensais. ;)
 
 - [ ] Fortalecendo a Carreira Profissional
 
-
-Assinale como você está evoluindo
 
 **Tasks para continuar evoluindo:**
 
