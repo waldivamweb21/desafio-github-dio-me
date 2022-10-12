@@ -1,0 +1,10 @@
+TOPICOS FUNDAMENTAIS DO GIT
+
+COMANDOS:
+- ABRI COM O BOTÃO DIREITO DO MOUSE O BASH.GIT;
+- DIGITA O COMANDO NO TERMINAL DO GITBASH:
+- dir => pra listar os arquivos e diretorios;
+openssl sha1 texto.txt
+
+(coloca a seta pra cima)
+- openssl sha1 texto.txt

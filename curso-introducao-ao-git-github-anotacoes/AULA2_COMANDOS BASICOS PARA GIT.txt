@@ -1,0 +1,42 @@
+COMANDOS BASICOS PARA GIT 
+
+*WINDOWS                
+- cd => Entra nas pastas;		
+- dir => lista as pastas;
+- mkdir => Cria pastas;
+- del / rmdir => Remove Arquivos forçadamente.
+
+*LINUX
+
+- cd	=> Entra nos diretórios;	 	
+- mkdir => Cria diretórios;
+- rm -r => Remove Arquivos forçadamente.
+- clear => Limpa a tela;
+- ls  => lista os diretorios;
+echo => mostra o arquivo na tela;
+echo hello > hello.txt => vasculhar se tem o arquivo hello 
+e  em seguida criar o arquivo hello.txt;
+-ls => listar o arquivo criado;
+rm -rf workspace => (remove recursivamente e forçado o Diretorio workspace); 
+***Atalhos Linux:
+CRTL + L -> clear => Limpa a tela;
+
+*Windows
+
+cd /   => entra no diretorio raiz do windows C;
+dir => Listar todas as pastas do disco C;
+cd .. => Volta o nível;
+cls => clear screen ( Limpar a tela);
+mkdir workspace => Cria uma pasta com nome: Workspace;
+dir => mostra o que criou;
+cd w + TAB (2X) => Vasculha um por o nome e a pasta.
+que deseja entrar.
+echo => mostra o arquivo na tela;
+echo hello > hello.txt => vasculhar se tem o arquivo hello 
+e  em seguida criar o arquivo hello.txt;
+del workspace => deleta os arquivos na pasta workspace;
+"Seta pra cima" => navega entre os comandos existentes;
+rmdir workspace /S /Q(remove directory) => remover a pasta workspace;
+
+***Atalhos Windows:
+SE digitar cd W e apertar a tecla TAB => Auto completa;

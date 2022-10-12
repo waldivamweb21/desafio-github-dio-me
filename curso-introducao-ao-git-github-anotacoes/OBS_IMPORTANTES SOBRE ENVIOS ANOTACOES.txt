@@ -1,0 +1,4 @@
+Observações importantes
+
+As anotacoes dos outros arquivos contem informações como login, senha, e token...
+Por isso não adicionei.
